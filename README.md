@@ -16,4 +16,4 @@ REDDIT_USER_AGENT=ResearchBot
 1. open docker desktop app to run this container
 2. open terminal and run docker up command: `docker-compose up --build`
 3. the command will take about 5~10 minutes to complete the data extraction and will save the resutl in csv format
-4. to download the csv file, go to docker desktop app > the container (reddit-app) > files > select the files and save.
+4. to download the csv file, go to docker desktop app > the container (reddit-app) > view files > app > select the files and save.
